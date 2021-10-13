@@ -1,11 +1,10 @@
 body{ 
-    background: pink;
+    background: green;
     font-family:Arial, Arial, Helvetica, sans-serif;
 }
 
-.assignment
-{ 
-display:flex;
+.assignment{ 
+    display:flex;
     padding: 10px;
     margin: 10px;
     background:lightgray;
@@ -17,6 +16,6 @@ display:flex;
 }
 h1 
 { 
-    color:darkorchid;
+    color:blue;
     text-align:center;
 }
